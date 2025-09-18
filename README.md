@@ -1,2 +1,2 @@
-# Codigos
-Alguns dos meus códigos
+# Codigos de C
+- 🖥️ Alguns dos meus códigos em C
